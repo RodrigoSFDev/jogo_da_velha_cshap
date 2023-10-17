@@ -1,0 +1,15 @@
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/bin/Debug/net6.0/JogoDaVelha
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/bin/Debug/net6.0/JogoDaVelha.deps.json
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/bin/Debug/net6.0/JogoDaVelha.runtimeconfig.json
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/bin/Debug/net6.0/JogoDaVelha.dll
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/bin/Debug/net6.0/ref/JogoDaVelha.dll
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/bin/Debug/net6.0/JogoDaVelha.pdb
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.csproj.AssemblyReference.cache
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.AssemblyInfo.cs
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.dll
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/obj/Debug/net6.0/ref/JogoDaVelha.dll
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.pdb
+/home/rodrigo/Documentos/CSharp-treino/jogo_da_velha_cshap/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.genruntimeconfig.cache
